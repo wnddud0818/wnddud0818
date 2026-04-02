@@ -41,7 +41,7 @@
 ### AI & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=LangChain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge&logo=langgraph&logoColor=white)
 
 ### DB & Infra
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
